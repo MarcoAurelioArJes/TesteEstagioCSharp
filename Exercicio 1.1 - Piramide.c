@@ -1,11 +1,20 @@
 #include <stdio.h>
+#include <locale.h>
 
 int main()
 {
-    int tamPiramide = 0;
+    setlocale(LC_ALL, "Portuguese");
     
-    printf("Informe a quantidade de linhas que deseja na pirâmide\n");
-    scanf("%d", &tamPiramide);
+    int tamPiramide = 3;
+    
+    do {
+        printf("Informe a quantidade de linhas que deseja na pirâmide. min 3 e máx 5\n");
+        scanf("%d", &tamPiramide);
+
+        if (tamPiramide < 3 || tamPiramide > 5) {
+            printf("\nA pirâmide deve ter no minimo 3 linhas e no máximo 5 linhas\n");
+        }
+    } while (tamPiramide > 5 || tamPiramide < 3);
     
     int piramide[tamPiramide][tamPiramide];
     int menor = 0;
