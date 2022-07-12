@@ -1,0 +1,15 @@
+E:\Exercicios Estagio\CalculaMedia\bin\Debug\net6.0\CalculaMedia.exe
+E:\Exercicios Estagio\CalculaMedia\bin\Debug\net6.0\CalculaMedia.deps.json
+E:\Exercicios Estagio\CalculaMedia\bin\Debug\net6.0\CalculaMedia.runtimeconfig.json
+E:\Exercicios Estagio\CalculaMedia\bin\Debug\net6.0\CalculaMedia.dll
+E:\Exercicios Estagio\CalculaMedia\bin\Debug\net6.0\CalculaMedia.pdb
+E:\Exercicios Estagio\CalculaMedia\obj\Debug\net6.0\CalculaMedia.csproj.AssemblyReference.cache
+E:\Exercicios Estagio\CalculaMedia\obj\Debug\net6.0\CalculaMedia.GeneratedMSBuildEditorConfig.editorconfig
+E:\Exercicios Estagio\CalculaMedia\obj\Debug\net6.0\CalculaMedia.AssemblyInfoInputs.cache
+E:\Exercicios Estagio\CalculaMedia\obj\Debug\net6.0\CalculaMedia.AssemblyInfo.cs
+E:\Exercicios Estagio\CalculaMedia\obj\Debug\net6.0\CalculaMedia.csproj.CoreCompileInputs.cache
+E:\Exercicios Estagio\CalculaMedia\obj\Debug\net6.0\CalculaMedia.dll
+E:\Exercicios Estagio\CalculaMedia\obj\Debug\net6.0\refint\CalculaMedia.dll
+E:\Exercicios Estagio\CalculaMedia\obj\Debug\net6.0\CalculaMedia.pdb
+E:\Exercicios Estagio\CalculaMedia\obj\Debug\net6.0\CalculaMedia.genruntimeconfig.cache
+E:\Exercicios Estagio\CalculaMedia\obj\Debug\net6.0\ref\CalculaMedia.dll

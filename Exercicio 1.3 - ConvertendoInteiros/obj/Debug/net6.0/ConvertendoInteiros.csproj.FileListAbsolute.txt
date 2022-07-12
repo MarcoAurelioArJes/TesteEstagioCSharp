@@ -1,0 +1,15 @@
+C:\Users\marco\source\repos\ConvertendoInteiros\bin\Debug\net6.0\ConvertendoInteiros.exe
+C:\Users\marco\source\repos\ConvertendoInteiros\bin\Debug\net6.0\ConvertendoInteiros.deps.json
+C:\Users\marco\source\repos\ConvertendoInteiros\bin\Debug\net6.0\ConvertendoInteiros.runtimeconfig.json
+C:\Users\marco\source\repos\ConvertendoInteiros\bin\Debug\net6.0\ConvertendoInteiros.dll
+C:\Users\marco\source\repos\ConvertendoInteiros\bin\Debug\net6.0\ConvertendoInteiros.pdb
+C:\Users\marco\source\repos\ConvertendoInteiros\obj\Debug\net6.0\ConvertendoInteiros.csproj.AssemblyReference.cache
+C:\Users\marco\source\repos\ConvertendoInteiros\obj\Debug\net6.0\ConvertendoInteiros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\source\repos\ConvertendoInteiros\obj\Debug\net6.0\ConvertendoInteiros.AssemblyInfoInputs.cache
+C:\Users\marco\source\repos\ConvertendoInteiros\obj\Debug\net6.0\ConvertendoInteiros.AssemblyInfo.cs
+C:\Users\marco\source\repos\ConvertendoInteiros\obj\Debug\net6.0\ConvertendoInteiros.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\ConvertendoInteiros\obj\Debug\net6.0\ConvertendoInteiros.dll
+C:\Users\marco\source\repos\ConvertendoInteiros\obj\Debug\net6.0\refint\ConvertendoInteiros.dll
+C:\Users\marco\source\repos\ConvertendoInteiros\obj\Debug\net6.0\ConvertendoInteiros.pdb
+C:\Users\marco\source\repos\ConvertendoInteiros\obj\Debug\net6.0\ConvertendoInteiros.genruntimeconfig.cache
+C:\Users\marco\source\repos\ConvertendoInteiros\obj\Debug\net6.0\ref\ConvertendoInteiros.dll

@@ -1,0 +1,15 @@
+E:\Exercicios Estagio\CalculaJurosComposto\bin\Debug\net6.0\CalculaJurosCompostos.exe
+E:\Exercicios Estagio\CalculaJurosComposto\bin\Debug\net6.0\CalculaJurosCompostos.deps.json
+E:\Exercicios Estagio\CalculaJurosComposto\bin\Debug\net6.0\CalculaJurosCompostos.runtimeconfig.json
+E:\Exercicios Estagio\CalculaJurosComposto\bin\Debug\net6.0\CalculaJurosCompostos.dll
+E:\Exercicios Estagio\CalculaJurosComposto\bin\Debug\net6.0\CalculaJurosCompostos.pdb
+E:\Exercicios Estagio\CalculaJurosComposto\obj\Debug\net6.0\CalculaJurosCompostos.csproj.AssemblyReference.cache
+E:\Exercicios Estagio\CalculaJurosComposto\obj\Debug\net6.0\CalculaJurosCompostos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Exercicios Estagio\CalculaJurosComposto\obj\Debug\net6.0\CalculaJurosCompostos.AssemblyInfoInputs.cache
+E:\Exercicios Estagio\CalculaJurosComposto\obj\Debug\net6.0\CalculaJurosCompostos.AssemblyInfo.cs
+E:\Exercicios Estagio\CalculaJurosComposto\obj\Debug\net6.0\CalculaJurosCompostos.csproj.CoreCompileInputs.cache
+E:\Exercicios Estagio\CalculaJurosComposto\obj\Debug\net6.0\CalculaJurosCompostos.dll
+E:\Exercicios Estagio\CalculaJurosComposto\obj\Debug\net6.0\refint\CalculaJurosCompostos.dll
+E:\Exercicios Estagio\CalculaJurosComposto\obj\Debug\net6.0\CalculaJurosCompostos.pdb
+E:\Exercicios Estagio\CalculaJurosComposto\obj\Debug\net6.0\CalculaJurosCompostos.genruntimeconfig.cache
+E:\Exercicios Estagio\CalculaJurosComposto\obj\Debug\net6.0\ref\CalculaJurosCompostos.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fb9KoNNtzL1O2awIioxmHIiBKkD32lR3+stLgVS8peO0e84hEgb3wdI5z/dR/LbACjCjBxmzy67f2RSsQ29iwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marco\\source\\repos\\CadastroCarros\\CadastroCarros.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marco\\.nuget\\packages\\linq2db\\4.1.1\\linq2db.4.1.1.nupkg.sha512",
+    "C:\\Users\\marco\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "C:\\Users\\marco\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
+    "C:\\Users\\marco\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
